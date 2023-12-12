@@ -21,67 +21,36 @@
 </ol>
 
 
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Project Images</title>
-    <style>
-        .image-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-            gap: 20px;
-            justify-content: center;
-            align-items: center;
-            margin: 20px;
-        }
+<h2>Images from project</h2>
+<p align="center">
+<br>
+<h3>Our team photo</h3>
 
-   
-  </style>
-</head>
+<img src="https://github.com/ahmdbilal81/SnakeGame_SFML_Cplusplus/assets/138764971/3dbb1ecc-8e14-4418-bb5a-553180acd9e6"  width="300" 
+     height="200"/>
 
-<body>
+<br>
+<h3>Home Screen</h3>
+<img  width="300" 
+     height="200" src="https://github.com/ahmdbilal81/SnakeGame_SFML_Cplusplus/assets/138764971/b79f9a6d-2b54-42fb-b750-9d0dc9c1739b" />
 
-<h2>Images from the Project</h2>
+<br>
+<h3>Difficulty level screen</h3>
+<img  width="300" 
+     height="200" src="https://github.com/ahmdbilal81/SnakeGame_SFML_Cplusplus/assets/138764971/d22866a5-009c-4d12-95f8-c726791969fc" />
 
-<div class="image-grid">
-<div>
-<h3>Our Team Photo</h3>
-<img src="https://github.com/ahmdbilal81/SnakeGame_SFML_Cplusplus/assets/138764971/3dbb1ecc-8e14-4418-bb5a-553180acd9e6"
-alt="Team Photo">
-</div>
+<br>
+<h4>GamePlay screen</h4>
+<img  width="300" 
+     height="200" src="https://github.com/ahmdbilal81/SnakeGame_SFML_Cplusplus/assets/138764971/79cf200d-8173-4556-8c82-2d4934753886" />
 
-<div>
-  <h3>Home Screen</h3>
-  <img src="https://github.com/ahmdbilal81/SnakeGame_SFML_Cplusplus/assets/138764971/b79f9a6d-2b54-42fb-b750-9d0dc9c1739b"
-  alt="Home Screen">
-  </div>
+<br>
+<h5>Pause screen</h5>
+<img  width="300" 
+     height="200" src="https://github.com/ahmdbilal81/SnakeGame_SFML_Cplusplus/assets/138764971/04e3e045-c7c3-4887-a644-21403ed56943" />
 
-  <div>
-  <h3>Difficulty Level Screen</h3>
-  <img src="https://github.com/ahmdbilal81/SnakeGame_SFML_Cplusplus/assets/138764971/d22866a5-009c-4d12-95f8-c726791969fc"
-  alt="Difficulty Level Screen">
-  </div>
-
-  <div>
-  <h3>Gameplay Screen</h3>
-  <img src="https://github.com/ahmdbilal81/SnakeGame_SFML_Cplusplus/assets/138764971/79cf200d-8173-4556-8c82-2d4934753886"
-  alt="Gameplay Screen">
-  </div>
-
-  <div>
-            <h3>Pause Screen</h3>
-            <img src="https://github.com/ahmdbilal81/SnakeGame_SFML_Cplusplus/assets/138764971/04e3e045-c7c3-4887-a644-21403ed56943"
-                alt="Pause Screen">
-        </div>
-</div>
-
-</body>
-
-</html>
-
+</p>
 
 
 
