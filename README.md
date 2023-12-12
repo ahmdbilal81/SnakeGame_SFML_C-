@@ -27,28 +27,28 @@
 <br>
 <h3>Our team photo</h3>
 
-<img src="https://github.com/ahmdbilal81/SnakeGame_SFML_Cplusplus/assets/138764971/3dbb1ecc-8e14-4418-bb5a-553180acd9e6"  width="300" 
-     height="200"/>
+<img src="https://github.com/ahmdbilal81/SnakeGame_SFML_Cplusplus/assets/138764971/3dbb1ecc-8e14-4418-bb5a-553180acd9e6"  width="500" 
+     height="300"/>
 
 <br>
 <h3>Home Screen</h3>
-<img  width="300" 
-     height="200" src="https://github.com/ahmdbilal81/SnakeGame_SFML_Cplusplus/assets/138764971/b79f9a6d-2b54-42fb-b750-9d0dc9c1739b" />
+<img  width="500" align="left" 
+     height="300" src="https://github.com/ahmdbilal81/SnakeGame_SFML_Cplusplus/assets/138764971/b79f9a6d-2b54-42fb-b750-9d0dc9c1739b" />
 
 <br>
 <h3>Difficulty level screen</h3>
-<img  width="300" 
-     height="200" src="https://github.com/ahmdbilal81/SnakeGame_SFML_Cplusplus/assets/138764971/d22866a5-009c-4d12-95f8-c726791969fc" />
+<img  width="500" 
+     height="300" src="https://github.com/ahmdbilal81/SnakeGame_SFML_Cplusplus/assets/138764971/d22866a5-009c-4d12-95f8-c726791969fc" />
 
 <br>
 <h4>GamePlay screen</h4>
-<img  width="300" 
-     height="200" src="https://github.com/ahmdbilal81/SnakeGame_SFML_Cplusplus/assets/138764971/79cf200d-8173-4556-8c82-2d4934753886" />
+<img  width="500" align="left"
+     height="300" src="https://github.com/ahmdbilal81/SnakeGame_SFML_Cplusplus/assets/138764971/79cf200d-8173-4556-8c82-2d4934753886" />
 
 <br>
 <h5>Pause screen</h5>
-<img  width="300" 
-     height="200" src="https://github.com/ahmdbilal81/SnakeGame_SFML_Cplusplus/assets/138764971/04e3e045-c7c3-4887-a644-21403ed56943" />
+<img  width="500" 
+     height="300" src="https://github.com/ahmdbilal81/SnakeGame_SFML_Cplusplus/assets/138764971/04e3e045-c7c3-4887-a644-21403ed56943" />
 
 </p>
 
