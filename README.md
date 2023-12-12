@@ -68,10 +68,7 @@
 
 
 <br>
-<h2>Instructions</h2>
+<p>Start playing the Snake Game! Use the arrow keys to control the snake and try to eat as much food as possible without colliding with the walls or yourself.</p>
 <br>
-Start playing the Snake Game! Use the arrow keys to control the snake and try to eat as much food as possible without colliding with the walls or yourself.
-
-
 <p>Feel free to explore the code, make improvements, and have fun!</p>
 
